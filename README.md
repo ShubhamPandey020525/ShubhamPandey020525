@@ -1,48 +1,76 @@
 <h1 align="center">👋 Hello World! I'm Shubham Pandey</h1>
 
 <p align="center">
-  🚀 B.Tech Student | ☕ Java Backend Developer | 🤖 AI/ML Enthusiast <br>
-  🛠️ Backend Dev in Process | 🧠 Neural Network Explorer | 🧬 GenAI Learner
+  🤖 Full Stack AI Developer | 🧠 Agentic AI & GenAI Systems Builder <br>
+  👁️ Computer Vision Engineer | 📊 Machine Learning & Deep Learning | 💻 DSA in C++
 </p>
 
 ---
 
-### 🧰 Tech Toolbox
+## 🔥 Agentic AI & GenAI Stack 
 
-#### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=flask,html,css,js,nodejs,react" height="40" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-4B0082?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-FF4500?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Long--Term%20Memory%20AI-2E8B57?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-#### 🧠 AI/ML & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,mysql,mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" />
-</p>
-
-#### 🎨 Design & Misc
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,github,vscode" height="40" />
-</p>
+**Core work:**
+- Autonomous AI agents with planning, memory & tool usage  
+- RAG pipelines (vector + hybrid + graph retrieval)  
+- Multi-agent coordination with LangGraph  
+- AI assistants & workflow automation  
 
 ---
 
-### 🏆 My GitHub Journey
+## 🤖 Deep Learning • Computer Vision • Machine Learning
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamPandey020525&theme=gruvbox&no-bg=true&no-frame=true&column=6" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40" />
 </p>
+
+**Hands-on focus:**
+- CNNs, transformers for vision, transfer learning  
+- Object detection, segmentation, video understanding  
+- Training loops, evaluation metrics, GPU pipelines  
+- Model tuning & experimentation  
 
 ---
 
-### 🔥 GitHub Streak
+## 💻 Programming & DSA
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShubhamPandey020525&theme=radical&hide_border=true&border_radius=10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
 </p>
+
+- High-performance algorithms in C++  
+- ML scripting & research in Python  
+
+---
+
+## 🚀 What I Build
+
+• End-to-end AI systems (data → model → intelligent app)  
+• Agentic AI assistants & autonomous workflows  
+• Real-world computer vision solutions  
+• Scalable GenAI platforms  
+• Research-style deep learning experiments  
+
+---
+
+## 📈 Current Learning Direction (Latest Trends)
+
+- Agentic AI at scale (self-planning, tool ecosystems, long-term memory)  
+- Google Titan-style memory architectures for long-context reasoning  
+- Advanced RAG (graph RAG, hybrid retrieval, reranking)  
+- Multimodal AI (vision + language + audio models)  
+- Efficient transformers & long-sequence modeling  
+- Vision foundation models & video transformers  
+- Model compression, optimization & fast inference  
 
 ---
 
