@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="img/chamber_classy.gif" width="700" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
-  
-  <br/>
-  
   <h1>✨ Shubham Pandey ✨</h1>
   <h3>🤖 Full Stack AI Developer | 🧠 Agentic AI Specialist | 👁️ Computer Vision Enthusiast</h3>
   
