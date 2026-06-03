@@ -39,7 +39,7 @@ AI Engineer specializing in **Agentic AI, Generative AI, Retrieval-Augmented Gen
       </ul>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="img/chamber_want_to_play.gif" width="300" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(255, 70, 85, 0.3);" />
+      <img src="img/chamber_want_to_play.jpg" width="300" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(255, 70, 85, 0.3);" />
     </td>
   </tr>
 </table>
