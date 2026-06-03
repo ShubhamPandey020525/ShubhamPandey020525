@@ -108,7 +108,7 @@ AI Engineer specializing in **Agentic AI, Generative AI, Retrieval-Augmented Gen
   <br/><br/>
   
   <blockquote>
-    <i>"A Man without a purpose will always look back to his past in regret"</i>
+    <i>"Precision is the difference between a butcher and a surgeon."</i>
   </blockquote>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
