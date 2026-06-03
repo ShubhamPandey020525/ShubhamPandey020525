@@ -2,7 +2,7 @@
  
 # ⚜️ If you're here, "You have good taste, my friend." ⚜️ 
  
-### 🤖 AI Engineer | 🧠 Agentic AI & GenAI Systems Builder | 👁️ Computer Vision Specialist 
+
  
 <p> 
   <a href="mailto:contact.shub.aidev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
@@ -20,127 +20,9 @@
 I build production-ready systems with clean architecture, real inference, and strong product thinking.</p> 
 </blockquote> 
 
---- 
-
-## ⚜️ 🎯 Core Identity 
-
-<div align="center"> 
-
-<table width="95%" cellspacing="0" cellpadding="0"> 
-<tr> 
-<td width="50%" valign="top"> 
-
-### 👤 Who I Am 
-
-- AI Engineer 
-- Agentic AI Builder 
-- GenAI Explorer 
-- Computer Vision Specialist 
-- RAG Systems Developer 
-- Deep Learning Enthusiast 
-- Machine Learning Explorer 
-- ⚜️ **Chamber Main** ⚜️ 
-</td> 
-<td width="50%" valign="top"> 
-
-### ⚙️ What I Build 
-- Intelligent AI products 
-- Multi-agent systems 
-- Retrieval-based assistants 
-- Real-time vision pipelines 
-- Scalable ML applications 
-- React + FastAPI AI platforms 
-
-</td> 
-</tr> 
-</table> 
-
-</div> 
 
 --- 
 
-<div align="center"> 
-
-<img src="img/chamber_want_to_play.jpg" width="460" /> 
-
-### *“The difference between ordinary and exceptional is attention to detail.”* 
-
-</div> 
-
---- 
-
-## ⚜️ 🛡️ Arsenal 
-
-<div align="center"> 
-
-<table width="95%" cellspacing="0" cellpadding="0"> 
-<tr> 
-<td width="50%" valign="top"> 
-
-### 🧠 AI & Machine Learning 
-- Agentic AI 
-- Generative AI 
-- Multi-Agent Systems 
-- RAG Systems 
-- Deep Learning 
-- Machine Learning 
-- Soft Computing 
-- Computer Vision 
-
-</td> 
-<td width="50%" valign="top"> 
-
-### 💻 Languages & Tools 
-- Python 
-- C++ 
-- LangChain 
-- LangGraph 
-- CrewAI 
-- PyTorch 
-- TensorFlow 
-- OpenCV 
-- Scikit-learn 
-- FastAPI 
-- React 
-- Docker 
-- Git & GitHub 
-
-</td> 
-</tr> 
-</table> 
-
-</div> 
-
---- 
-
-## ⚜️ 🚀 Current Mission 
-
-<div align="center"> 
-
-<table width="95%" cellspacing="0" cellpadding="0"> 
-<tr> 
-<td width="50%" valign="top"> 
-
-- Build sharper Agentic AI systems 
-- Improve retrieval quality in RAG 
-- Create vision systems with real-world value 
-- Blend React + FastAPI into usable AI products 
-
-</td> 
-<td width="50%" valign="top"> 
-
-- Push multi-agent orchestration further 
-- Work on long-term memory and reasoning 
-- Build cleaner deployment pipelines 
-- Keep every system precise, fast, and scalable 
-
-</td> 
-</tr> 
-</table> 
-
-</div> 
-
---- 
 
 ## 🚀 Signature Projects 
 
@@ -237,6 +119,118 @@ I build production-ready systems with clean architecture, real inference, and st
 
 </div> 
 
+
+---
+## ⚜️ 🎯 Core Identity 
+
+<div align="center"> 
+
+<table width="95%" cellspacing="0" cellpadding="0"> 
+<tr> 
+<td width="50%" valign="top"> 
+
+### 👤 Who I Am 
+
+- AI Engineer 
+- Agentic AI Builder 
+- GenAI Explorer 
+- Computer Vision Specialist 
+- RAG Systems Developer 
+- Deep Learning Enthusiast 
+- Machine Learning Explorer 
+- ⚜️ **Chamber Main** ⚜️ 
+</td> 
+<td width="50%" valign="top"> 
+
+### ⚙️ What I Build 
+- Intelligent AI products 
+- Multi-agent systems 
+- Retrieval-based assistants 
+- Real-time vision pipelines 
+- Scalable ML applications 
+- React + FastAPI AI platforms 
+
+</td> 
+</tr> 
+</table> 
+
+</div> 
+
+--- 
+
+## ⚜️ 🛡️ Arsenal 
+
+<div align="center"> 
+
+<table width="95%" cellspacing="0" cellpadding="0"> 
+<tr> 
+<td width="50%" valign="top"> 
+
+### 🧠 AI & Machine Learning 
+- Agentic AI 
+- Generative AI 
+- Multi-Agent Systems 
+- RAG Systems 
+- Deep Learning 
+- Machine Learning 
+- Soft Computing 
+- Computer Vision 
+
+</td> 
+<td width="50%" valign="top"> 
+
+### 💻 Languages & Tools 
+- Python 
+- C++ 
+- LangChain 
+- LangGraph 
+- CrewAI 
+- PyTorch 
+- TensorFlow 
+- OpenCV 
+- Scikit-learn 
+- FastAPI 
+- React 
+- Docker 
+- Git & GitHub 
+
+</td> 
+</tr> 
+</table> 
+
+</div> 
+
+--- 
+
+## ⚜️ 🚀 Current Mission 
+
+<div align="center"> 
+
+<table width="95%" cellspacing="0" cellpadding="0"> 
+<tr> 
+<td width="50%" valign="top"> 
+
+- Build sharper Agentic AI systems 
+- Improve retrieval quality in RAG 
+- Create vision systems with real-world value 
+- Blend React + FastAPI into usable AI products 
+
+</td> 
+<td width="50%" valign="top"> 
+
+- Push multi-agent orchestration further 
+- Work on long-term memory and reasoning 
+- Build cleaner deployment pipelines 
+- Keep every system precise, fast, and scalable 
+
+</td> 
+</tr> 
+</table> 
+
+</div> 
+
+--- 
+
 --- 
 
 ## 💼 🛠️ Experience 
@@ -312,10 +306,13 @@ Class XII and X
 <p> 
   <img src="img/chamber_card.gif" width="190" /> 
 </p> 
+  Building the future with precision and class.
 
 <p><i>⚜️ AI Engineer by profession • Chamber Main by choice ⚜️</i></p> 
 
-**Building the future with precision and class.** 
+### *"They are so dead."*
+
+### *"You want to play? Let's play."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:D4AF37&height=120&section=footer" /> 
 
