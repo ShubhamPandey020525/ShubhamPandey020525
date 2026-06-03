@@ -63,7 +63,7 @@
  
  <div align="center"> 
  
- <img src="img/chamber_want_to_play.gif" width="460" /> 
+ <img src="img/chamber_want_to_play.jpg" width="460" /> 
  
  ### *“The difference between ordinary and exceptional is attention to detail.”* 
  
