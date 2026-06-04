@@ -301,8 +301,8 @@ Class XII and X
 
 <div align="center"> 
 
-### *“They think they are safe. How adorable.”* 
 
+### *"You want to play? Let's play."*
 <p> 
   <img src="img/chamber_card.gif" width="190" /> 
 </p> 
@@ -310,9 +310,6 @@ Class XII and X
 
 <p><i>⚜️ AI Engineer by profession • Chamber Main by choice ⚜️</i></p> 
 
-### *"They are so dead."*
-
-### *"You want to play? Let's play."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:D4AF37&height=120&section=footer" /> 
 
