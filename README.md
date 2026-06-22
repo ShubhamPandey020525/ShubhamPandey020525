@@ -8,17 +8,17 @@
 
 <p>
   <a href="https://shubham-pandey-rho.vercel.app/">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20Portfolio-0070f3?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <br/><br/>
+  &nbsp;&nbsp;
   <a href="mailto:contact.shub.aidev@gmail.com">
-    <img src="https://img.shields.io/badge/Click%20here%20to%20Email-24292e?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20to%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <br/><br/>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shubham-pandey-068469358/">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20LinkedIn-24292e?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <br/><br/>
+  &nbsp;&nbsp;
   <a href="https://github.com/ShubhamPandey020525">
     <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -111,8 +111,9 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 ### 🌐 My Portfolio
 <p>
   <a href="https://shubham-pandey-rho.vercel.app/">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20Live%20Demo-24292e?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20Live%20Demo-0070f3?style=flat-square&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/ShubhamPandey020525/Shubham-Pandey">
     <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
   </a>
@@ -191,7 +192,7 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 **June 2026**
 <p>
   <a href="https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_6a3112fb5c6812dbed7841e3_1781691472856_completion_certificate.pdf">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20Certificate-24292e?style=flat-square&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20Certificate-4285f4?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
@@ -206,7 +207,7 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 **June 2026**
 <p>
   <a href="https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_6a3112fb5c6812dbed7841e3_1781850143969_completion_certificate.pdf">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20Certificate-24292e?style=flat-square&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20Certificate-4285f4?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
@@ -256,19 +257,23 @@ Class X (2020-2021): 91%
 
 <p>
   <a href="https://www.coursera.org/account/accomplishments/verify/HF2V310I6QMW">
-    <img src="https://img.shields.io/badge/Apply%20GANs-24292e?style=flat-square&logo=coursera&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apply%20GANs-0056d2?style=flat-square&logo=coursera&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.coursera.org/account/accomplishments/verify/ATK55S2YEDVB">
-    <img src="https://img.shields.io/badge/Build%20Basic%20GANs-24292e?style=flat-square&logo=coursera&logoColor=white" />
+    <img src="https://img.shields.io/badge/Build%20Basic%20GANs-0056d2?style=flat-square&logo=coursera&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.coursera.org/account/accomplishments/verify/5ZLY9J51ML2C">
-    <img src="https://img.shields.io/badge/Neural%20Networks%20%26%20Deep%20Learning-24292e?style=flat-square&logo=coursera&logoColor=white" />
+    <img src="https://img.shields.io/badge/Neural%20Networks%20%26%20Deep%20Learning-0056d2?style=flat-square&logo=coursera&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.coursera.org/account/accomplishments/verify/WZBS24VTQ1T0">
-    <img src="https://img.shields.io/badge/Machine%20Learning%3A%20Classification-24292e?style=flat-square&logo=coursera&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine%20Learning%3A%20Classification-0056d2?style=flat-square&logo=coursera&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.coursera.org/account/accomplishments/verify/TO6S6LKE77H1">
-    <img src="https://img.shields.io/badge/Statistics%20for%20Data%20Science%20with%20Python-24292e?style=flat-square&logo=coursera&logoColor=white" />
+    <img src="https://img.shields.io/badge/Statistics%20for%20Data%20Science%20with%20Python-0056d2?style=flat-square&logo=coursera&logoColor=white" />
   </a>
 </p>
 
