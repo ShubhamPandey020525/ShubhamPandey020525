@@ -106,7 +106,7 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 </tr>
 
 <tr>
-<td width="50%" valign="top" align="center">
+<td colspan="2" valign="top" align="center">
 
 ### 🌐 My Portfolio
 <p>
@@ -124,7 +124,6 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 - Synthesized production-ready personal hub for interactive deployment tracking
 
 </td>
-<td width="50%" valign="top" align="center"></td>
 </tr>
 </table>
 
