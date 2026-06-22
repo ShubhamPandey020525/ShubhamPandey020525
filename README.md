@@ -1,5 +1,8 @@
 <div align="center"> 
 
+<img src="img/image.jpg" width="250" />
+<br/><br/>
+
 # ⚜️ Shubham Pandey
 
 <p> 
@@ -230,7 +233,5 @@ Class X (2020-2021): 91%
 ---
 
 <div align="center"> 
-  <img src="img/hhhh.jpg" width="300" />
-  <br/><br/>
   Building the future with precision and class.
 </div>
