@@ -20,7 +20,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ShubhamPandey020525">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 ### 💎 Finvexis AI
 <p>
   <a href="https://github.com/Riruru612/Finvexis_AI">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 ### 📄 PolyDoc Chat
 <p>
   <a href="https://github.com/ShubhamPandey020525/PolyDoc-Chat">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -76,7 +76,7 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 ### 🎬 MoodFlix
 <p>
   <a href="https://github.com/ShubhamPandey020525/MoodFlix">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -92,7 +92,7 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 ### 🚦 Co-Drive
 <p>
   <a href="https://github.com/ShubhamPandey020525/Co-Drive">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -115,7 +115,7 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ShubhamPandey020525/Shubham-Pandey">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
