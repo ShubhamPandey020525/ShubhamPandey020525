@@ -3,7 +3,7 @@
 
 # 🚀 Shubham Pandey
 
-<img src="img/image_final.png" width="350" />
+<img src="img/image_final.png" width="85%" />
 <br/><br/>
 
 <p>
