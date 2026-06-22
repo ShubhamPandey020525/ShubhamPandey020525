@@ -3,24 +3,24 @@
 
 # 🚀 Shubham Pandey
 
-<img src="img/image.jpg" width="350" />
+<img src="img/image_final.png" width="350" />
 <br/><br/>
 
 <p>
   <a href="https://shubham-pandey-rho.vercel.app/">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <br/><br/>
   <a href="mailto:contact.shub.aidev@gmail.com">
-    <img src="https://img.shields.io/badge/Click%20here%20to%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20to%20Email-24292e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br/><br/>
   <a href="https://www.linkedin.com/in/shubham-pandey-068469358/">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20LinkedIn-24292e?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br/><br/>
   <a href="https://github.com/ShubhamPandey020525">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -32,16 +32,16 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 
 ---
 
-## � Projects
+## 📂 Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 💎 Finvexis AI
 <p>
   <a href="https://github.com/Riruru612/Finvexis_AI">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -52,12 +52,12 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 - Deployed an executive-facing React dashboard for strategic financial forecasting
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 📄 PolyDoc Chat
 <p>
   <a href="https://github.com/ShubhamPandey020525/PolyDoc-Chat">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -71,12 +71,12 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🎬 MoodFlix
 <p>
   <a href="https://github.com/ShubhamPandey020525/MoodFlix">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -87,12 +87,12 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 - Embedded conversational context tracking with typo-handling
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🚦 Co-Drive
 <p>
   <a href="https://github.com/ShubhamPandey020525/Co-Drive">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -106,15 +106,15 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🌐 My Portfolio
 <p>
   <a href="https://shubham-pandey-rho.vercel.app/">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20Live%20Demo-24292e?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/ShubhamPandey020525/Shubham-Pandey">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -123,7 +123,7 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 - Synthesized production-ready personal hub for interactive deployment tracking
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top" align="center"></td>
 </tr>
 </table>
 
@@ -131,9 +131,9 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 
 ## 🛠️ Technical Skills
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🧠 Agentic AI & GenAI
 - LangChain
@@ -151,7 +151,7 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 - NumPy
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 💻 Programming Languages
 - Python
@@ -183,15 +183,15 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 
 ## 💼 Experience
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 📊 BCG X (Boston Consulting Group) – GenAI Project
 **June 2026**
 <p>
   <a href="https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_6a3112fb5c6812dbed7841e3_1781691472856_completion_certificate.pdf">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20Certificate-0077B5?style=flat-square&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20Certificate-24292e?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
@@ -200,13 +200,13 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 - Designed context-aware prompt engineering workflows
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 📈 JPMorgan Chase & Co. – Quantitative Research Project
 **June 2026**
 <p>
   <a href="https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_6a3112fb5c6812dbed7841e3_1781850143969_completion_certificate.pdf">
-    <img src="https://img.shields.io/badge/Click%20here%20for%20Certificate-0077B5?style=flat-square&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20here%20for%20Certificate-24292e?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
@@ -222,9 +222,9 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 
 ## 🎓 Education
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🏛️ Bennett University
 **B.Tech in Computer Science Engineering (AI)**  
@@ -232,7 +232,7 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 **CGPA:** 8.0/10
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🏫 Shiksha Bharati Senior Secondary School
 **CBSE**  
@@ -254,11 +254,23 @@ Class X (2020-2021): 91%
 
 ## 📜 Certifications
 
-- <a href="https://www.coursera.org/account/accomplishments/verify/HF2V310I6QMW"><img src="https://img.shields.io/badge/Apply%20GANs-0056D2?style=flat-square&logo=coursera&logoColor=white" /></a> – DeepLearning.AI
-- <a href="https://www.coursera.org/account/accomplishments/verify/ATK55S2YEDVB"><img src="https://img.shields.io/badge/Build%20Basic%20GANs-0056D2?style=flat-square&logo=coursera&logoColor=white" /></a> – DeepLearning.AI
-- <a href="https://www.coursera.org/account/accomplishments/verify/5ZLY9J51ML2C"><img src="https://img.shields.io/badge/Neural%20Networks%20%26%20Deep%20Learning-0056D2?style=flat-square&logo=coursera&logoColor=white" /></a> – DeepLearning.AI
-- <a href="https://www.coursera.org/account/accomplishments/verify/WZBS24VTQ1T0"><img src="https://img.shields.io/badge/Machine%20Learning%3A%20Classification-0056D2?style=flat-square&logo=coursera&logoColor=white" /></a> – University of Washington
-- <a href="https://www.coursera.org/account/accomplishments/verify/TO6S6LKE77H1"><img src="https://img.shields.io/badge/Statistics%20for%20Data%20Science%20with%20Python-0056D2?style=flat-square&logo=coursera&logoColor=white" /></a> – IBM
+<p>
+  <a href="https://www.coursera.org/account/accomplishments/verify/HF2V310I6QMW">
+    <img src="https://img.shields.io/badge/Apply%20GANs-24292e?style=flat-square&logo=coursera&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/ATK55S2YEDVB">
+    <img src="https://img.shields.io/badge/Build%20Basic%20GANs-24292e?style=flat-square&logo=coursera&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/5ZLY9J51ML2C">
+    <img src="https://img.shields.io/badge/Neural%20Networks%20%26%20Deep%20Learning-24292e?style=flat-square&logo=coursera&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/WZBS24VTQ1T0">
+    <img src="https://img.shields.io/badge/Machine%20Learning%3A%20Classification-24292e?style=flat-square&logo=coursera&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/TO6S6LKE77H1">
+    <img src="https://img.shields.io/badge/Statistics%20for%20Data%20Science%20with%20Python-24292e?style=flat-square&logo=coursera&logoColor=white" />
+  </a>
+</p>
 
 ---
 
