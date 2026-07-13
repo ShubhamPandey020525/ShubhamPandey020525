@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🚀 Shubham Pandey
@@ -38,6 +37,22 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 <tr>
 <td width="50%" valign="top" align="center">
 
+### 🎙️ Interview Coach
+<p>
+  <a href="https://github.com/ShubhamPandey020525/Interview_Coach">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+**Stack:** LangGraph • FastAPI • React 19 • TypeScript • OpenCV • MediaPipe • Whisper
+
+- Engineered dynamic multi-agent simulation with LangGraph orchestrating 8 agents
+- Integrated OpenAI Whisper for speaking pace (WPM) and filler word analysis
+- Built computer vision pipelines using MediaPipe & OpenCV for posture/eye-contact tracking
+
+</td>
+<td width="50%" valign="top" align="center">
+
 ### 💎 Finvexis AI
 <p>
   <a href="https://github.com/Riruru612/Finvexis_AI">
@@ -52,6 +67,9 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 - Deployed an executive-facing React dashboard for strategic financial forecasting
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top" align="center">
 
 ### 📄 PolyDoc Chat
@@ -66,6 +84,22 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 - Engineered enterprise RAG ecosystem supporting 6 formats
 - Optimized vector lookups achieving 0.69s end-to-end latency
 - Enforced local embedding generation for 100% citation-backed responses
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🚦 Co-Drive
+<p>
+  <a href="https://github.com/ShubhamPandey020525/Co-Drive">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+**Stack:** YOLO11n • Computer Vision • GPU Acceleration • Python • React • Tailwind CSS
+
+- Trained custom YOLO11n object detection pipeline achieving 99.05% mAP
+- Built GPU-accelerated stream execution with 19-25ms inference latency
+- Integrated browser-native video outputs
 
 </td>
 </tr>
@@ -89,25 +123,6 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 </td>
 <td width="50%" valign="top" align="center">
 
-### 🚦 Co-Drive
-<p>
-  <a href="https://github.com/ShubhamPandey020525/Co-Drive">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-**Stack:** YOLO11n • Computer Vision • GPU Acceleration • Python • React • Tailwind CSS
-
-- Trained custom YOLO11n object detection pipeline achieving 99.05% mAP
-- Built GPU-accelerated stream execution with 19-25ms inference latency
-- Integrated browser-native video outputs
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top" align="center">
-
 ### 🌐 My Portfolio
 <p>
   <a href="https://shubham-pandey-rho.vercel.app/">
@@ -122,6 +137,8 @@ Aspiring AI/ML Engineer and final-year Computer Science Engineering student focu
 **Stack:** Git • GitHub • React • Vite • TypeScript • Tailwind CSS • Framer Motion
 
 - Synthesized production-ready personal hub for interactive deployment tracking
+- Designed responsive layout showcasing portfolio metrics and credentials
+- Integrated fluid animations with Framer Motion for a premium user experience
 
 </td>
 </tr>
